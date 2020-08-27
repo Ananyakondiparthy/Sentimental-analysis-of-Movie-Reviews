@@ -2,3 +2,5 @@
 Sentimental analysis of Movie Reviews
 ![Sentiment result Example]
 (https://github.com/Ananyakondiparthy/Sentimental-analysis-of-Movie-Reviews/blob/master/image.png)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
